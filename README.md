@@ -1,5 +1,9 @@
 # SWENGG4Y2024Team11
 SWENGG4Y2024Team11
+
+Project Name : Personal Health and Wellness Assistant
+
+
 # Team Members - Bits roll number - Bits mail id - github id
 GuruPrasad Hukkeri - 2022HS70007 - 2022hs70007@wilp.bits-pilani.ac.in - GuruprasadHukkeri
 
@@ -10,3 +14,5 @@ Akshata Kulkarni - 2022HS70013 - 2022hs70013@wilp.bits-pilani.ac.in - AkshataKul
 Ancel Joy Saji - 2022HS70017 - 2022hs70017@wilp.bits-pilani.ac.in - AncelJoySaji
 
 Sindhu H R - 2022HS70011 - 2022hs70011@wilp.bits-pilani.ac.in - sindhuhr15
+
+
