@@ -1,15 +1,15 @@
-#User Requirements Document
-##Project Title: Personal Health and Wellness Assistant
-#Document Version: 1.0
-1. Introduction
+# User Requirements Document
+## Project Title: Personal Health and Wellness Assistant
+## Document Version: 1.0
+### 1. Introduction
 1.1 Purpose
 The purpose of this document is to outline the requirements of the users for Personal Health and Wellness Assistant project, which aims to provide users with an online platform to personalized health tracking, fitness tracking, meal planning, medication reminders, symptom checkers, and access to reliable health information and resources.
 
 1.2 Scope
 This document covers the functional and non-functional requirements of the system, outlining what users expect from the system.
 
-2. User Requirements
-2.1 Functional Requirements
+### 2. User Requirements
+ 2.1 Functional Requirements
 
 User Registration and Authentication
 
@@ -46,7 +46,7 @@ Acceptance Criteria: Users can log meals and snacks, access a food database with
 set dietary preferences (e.g., vegetarian, gluten-free), and receive recommendations for balanced meals.
 
 
-2.2 Non-Functional Requirements
+### 2.2 Non-Functional Requirements
 
 Usability
 Description: The application should have a user-friendly interface that is easy to navigate and intuitive to use.
@@ -70,19 +70,19 @@ Acceptance Criteria: The application is tested for compatibility with major web 
 
 
 
-3. Constraints
+### 3. Constraints
 Limited development resources and timeline constraints may
 impact the delivery of certain features.
 
 Integration with third-party APIs(e.g., fitness trackers, food databases) may
 require adherence to external dependencies and limitations.
 
-5. Assumptions
+### 5. Assumptions
 Users have access to compatible devices with internet connectivity to use the application.
 
 Users are responsible for the accuracy and truthfulness of the health data they input into the application.
 
-5. Dependencies
+### 6. Dependencies
 Integration with external APIs for fitness tracking, nutrition data, and other health-related services.
 
 Availability of development resources and expertise for application development and maintenance.
