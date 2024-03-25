@@ -78,12 +78,12 @@ impact the delivery of certain features.
 Integration with third-party APIs(e.g., fitness trackers, food databases) may
 require adherence to external dependencies and limitations.
 
-### 5. Assumptions
+### 4. Assumptions
 Users have access to compatible devices with internet connectivity to use the application.
 
 Users are responsible for the accuracy and truthfulness of the health data they input into the application.
 
-### 6. Dependencies
+### 5. Dependencies
 Integration with external APIs for fitness tracking, nutrition data, and other health-related services.
 
 Availability of development resources and expertise for application development and maintenance.
