@@ -1,3 +1,5 @@
+Project Title: Personal Health and Wellness Assistant
+
 1.End Users:
 * These are individuals who will directly use the Personal Health and Wellness Assistant software.
 * They may include people interested in tracking their health metrics, managing their fitness routines, monitoring their diet, etc.
