@@ -6,44 +6,31 @@
 
 **1.1 Definition of a Software Requirement**
 
-- A software requirement is a documented description of the capabilities, functionalities, or qualities that a software system must possess to solve a problem or achieve specific objectives.
-
-- Requirements can be categorized as functional (what the system should do) or non-functional (how the system should perform).
-
-- Examples of functional requirements for the Personal Health and Wellness Assistant include:
-
-- Ability to track physical activity through GPS or accelerometer data.
-
-- Generation of personalized fitness plans based on user goals and health conditions.
-
-- Examples of non-functional requirements include:
-
-- Security requirements to protect user data (e.g., encryption of sensitive information).
-
-- Performance requirements specifying response times for user interactions (e.g., loading time of the application).
+- A software requirement is a documented description of the capabilities, functionalities, or qualities necessary for a software system to solve a problem or achieve specific objectives.
+- Requirements are typically classified as functional (defining what the system should do) or non-functional (detailing how the system should perform).
+- Functional requirements for the Personal Health and Wellness Assistant include:
+  1. Tracking physical activity through GPS or accelerometer data.
+  2. Generating personalized fitness plans based on user goals and health conditions.
+- Non-functional requirements include:
+  1. Security measures to protect user data, such as encryption of sensitive information.
+  2. Performance requirements specifying response times for user interactions, like the application's loading time.
 
 **1.2 Product and Process Requirements**
 
-- Product requirements define the qualities and characteristics of the software product, while process requirements govern the development process itself.
-
-- Product requirements include usability, reliability, scalability, and compliance with regulatory standards in the healthcare industry (e.g., HIPAA for data privacy).
-
-- Process requirements encompass methodologies (e.g., Agile, Waterfall) and quality assurance practices (e.g., code reviews, testing procedures) employed during development.
+- Product requirements specify the qualities and characteristics of the software product, while process requirements govern the development process.
+- Product requirements cover aspects such as usability, reliability, scalability, and compliance with regulatory standards in the healthcare industry, like HIPAA for data privacy.
+- Process requirements encompass methodologies (e.g., Agile, Waterfall) and quality assurance practices (e.g., code reviews, testing procedures) utilized during development.
 
 **1.3 Functional and Non-Functional Requirements**
 
-- Functional requirements describe the specific behaviors or functions that the software must perform.
-
+- Functional requirements outline specific behaviors or functions the software must perform.
 - Non-functional requirements define the quality attributes or constraints of the system.
-
-- Functional requirements for the Personal Health and Wellness Assistant may include tracking dietary intake, providing reminders for medication, and offering access to a database of healthy recipes.
-
-- Non-functional requirements may address performance, security, reliability, and usability aspects.
+- Functional requirements for the Personal Health and Wellness Assistant may include tracking dietary intake, providing medication reminders, and offering access to a database of healthy recipes.
+- Non-functional requirements may address aspects like performance, security, reliability, and usability.
 
 **1.4 Emergent Properties**
 
-- Emergent properties refer to the characteristics or behaviors of a system that arise from the interactions of its components, rather than being explicitly programmed.
-
+- Emergent properties are characteristics or behaviors of a system that arise from the interactions of its components, rather than being explicitly programmed.
 - For the Personal Health and Wellness Assistant, emergent properties might include adaptability to changing user preferences, integration with wearable devices, and personalized health recommendations based on user data analysis.
 
 **1.5 Quantifiable Requirements**
