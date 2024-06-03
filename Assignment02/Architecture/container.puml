@@ -1,0 +1,34 @@
+@startuml
+title Container Diagram for Personal Health and Wellness Assistant
+
+skinparam shadowing false
+skinparam monochrome true
+
+actor User
+
+node "Personal Health and Wellness Assistant" {
+  [Web Application] as WebApp
+  [Mobile Application] as MobileApp
+  [Backend Service] as Backend
+  [Database] as DB
+  [Authentication Service] as AuthService
+}
+
+node "External Systems" {
+  [Fitness Tracker API] as FTA
+  [Nutrition Database API] as NDA
+  [Health Information Provider] as HIP
+}
+
+User --> WebApp : Uses
+User --> MobileApp : Uses
+
+WebApp --> Backend : API Calls
+MobileApp --> Backend : API Calls
+Backend --> DB : Reads/Writes
+Backend --> AuthService : Authenticates
+Backend --> FTA : Retrieves activity data
+Backend --> NDA : Retrieves nutritional data
+Backend --> HIP : Retrieves health information
+
+@enduml

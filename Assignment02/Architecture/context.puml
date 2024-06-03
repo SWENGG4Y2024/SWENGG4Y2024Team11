@@ -1,0 +1,34 @@
+@startuml
+title Context Diagram for Personal Health and Wellness Assistant
+
+skinparam shadowing false
+skinparam monochrome true
+
+actor User as u
+actor "Fitness Tracker API" as fta
+actor "Nutrition Database API" as nda
+actor "Health Information Provider" as hip
+
+package "Personal Health and Wellness Assistant" {
+  [User Registration and Authentication] as URA
+  [Personalized Health Tracking] as PHT
+  [Activity Tracking and Workouts] as ATW
+  [Nutrition Tracking and Meal Planning] as NTMP
+  [Medication Reminders] as MR
+  [Symptom Checker] as SC
+  [Health Information Access] as HIA
+}
+
+u --> URA : Registers and Logs in
+u --> PHT : Inputs and tracks health data
+u --> ATW : Logs and accesses workout plans
+u --> NTMP : Logs meals and plans nutrition
+u --> MR : Sets medication reminders
+u --> SC : Uses symptom checker
+u --> HIA : Accesses health information
+
+PHT <-- fta : Retrieves activity data
+NTMP <-- nda : Retrieves nutritional information
+HIA <-- hip : Provides health information
+
+@enduml

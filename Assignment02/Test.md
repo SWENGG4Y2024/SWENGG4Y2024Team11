@@ -1,4 +1,4 @@
-## 1. Testing Document for Perzonal Health Assistant
+## 1. Testing Document for Personal Health Assistant
 
 ### 1.1 Introduction
 
