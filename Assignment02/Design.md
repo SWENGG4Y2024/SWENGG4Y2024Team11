@@ -70,7 +70,7 @@ The principles guiding the design of the HealthSync Application are:
 8. Continuous Monitoring: Monitor the application post-release to assess its performance and user interactions. Ensure the application is monitored to detect and report any illegal activities conducted by subscribed members.
 
 ## 3 **Activity Diagram**
-<img alt="Activity Diagram" src="https://github.com/SWENGG4Y2024/SWENGG4Y2024Team11/edit/main/Assignment02/Activity Diagram-SE.png">
+<img alt="Activity Diagram" src="https://github.com/SWENGG4Y2024/SWENGG4Y2024Team11/blob/main/Assignment02/Activity Diagram-SE.png">
 
 
 
