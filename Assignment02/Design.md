@@ -32,7 +32,7 @@ Backend Server: Handles business logic, data processing, and interactions with t
 Database: Stores user data, preferences, and historical health information.
 Third-party Integrations: Interfaces with external services for additional data (e.g., weather, nutritional databases).
 
-<img height="500" width="500" alt="Nutrition" src="https://github.com/SWENGG4Y2024/SWENGG4Y2024Team11/blob/main/Assignment02/target.webp"> <img height="500" width="500" alt="Health" src="https://github.com/SWENGG4Y2024/SWENGG4Y2024Team11/blob/main/Assignment02/UI_nutrition.jpg">
+<img height="500" width="500" alt="Nutrition" src="https://github.com/SWENGG4Y2024/SWENGG4Y2024Team11/blob/main/Assignment02/target.webp"> 
 
 
 Features of the Personal Health and Wellness Assistant Application:
